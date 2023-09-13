@@ -1,3 +1,3 @@
 import os
 
-os.environ.setdefault("SECRET_KEY", "your_secret_key_here")
+os.environ.setdefault("SECRET_KEY", "mysecret_flash_key23")
